@@ -1,3 +1,4 @@
+
 The Houdini Digital Asset for the City Generator can be found in city_generator_3.hdanc and an example of it being used is in test.hipnc
 
 RenderImageWorks.png is a rendered image of a final artefact and RenderImageWorks2.png is an image of the underlying mapped and painted grid.
